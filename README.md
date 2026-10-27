@@ -20,6 +20,7 @@
 - 💻 Interested in **software engineering**, **web** and **mobile** development
 - 🛒 Learning and working with **Magento 2** on e-commerce projects
 - 🌱 Building small projects to learn: Vue, TypeScript, Kotlin, Python, Godot
+- 💬 Ask me about: Magento 2, Vue, TypeScript, Python
 
 ## 🛠️ Tech stack
 
